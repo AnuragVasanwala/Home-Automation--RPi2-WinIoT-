@@ -1,0 +1,1 @@
+C:\Users\Anurag\Desktop\OneDrive\Hackster.io\Challenge\Microsoft Challenge\Final Release\Home Automation (RPi2 WinIoT)\Home Automation (RPi2 WinIoT)\Home Automation (RPi2 WinIoT).csproj;x86
